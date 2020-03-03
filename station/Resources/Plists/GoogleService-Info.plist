@@ -3,34 +3,34 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>925543306936-7kgoki02io1cmocq9qeg5rmt7rhg3u97.apps.googleusercontent.com</string>
+	<string>363872363075-4utbk3sup55hsdkpg28jd6m0qqf9gjf9.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.925543306936-7kgoki02io1cmocq9qeg5rmt7rhg3u97</string>
+	<string>com.googleusercontent.apps.363872363075-4utbk3sup55hsdkpg28jd6m0qqf9gjf9</string>
 	<key>API_KEY</key>
-	<string>AIzaSyB2BMG9ExTA2KIWNVErosjpjdLyXkfE1d4</string>
+	<string>AIzaSyAtgs-_znwO0-LbVgaZHERAob-Exl_eWTk</string>
 	<key>GCM_SENDER_ID</key>
-	<string>925543306936</string>
+	<string>363872363075</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.ruuvi.station</string>
+	<string>com.quickreach.mxp</string>
 	<key>PROJECT_ID</key>
-	<string>ruuvi-station-demo</string>
+	<string>ruuvi-integration</string>
 	<key>STORAGE_BUCKET</key>
-	<string>ruuvi-station-demo.appspot.com</string>
+	<string>ruuvi-integration.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<false/>
+	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false/>
+	<false></false>
 	<key>IS_APPINVITE_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_GCM_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:925543306936:ios:84f5fda343c52e7671c64d</string>
+	<string>1:363872363075:ios:ee6b8a8d948604c29b2af6</string>
 	<key>DATABASE_URL</key>
-	<string>https://ruuvi-station-demo.firebaseio.com</string>
+	<string>https://ruuvi-integration.firebaseio.com</string>
 </dict>
 </plist>
